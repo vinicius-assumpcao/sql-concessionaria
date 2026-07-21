@@ -31,7 +31,7 @@ sql-concessionaria/
 │
 ├── README.md
 │
-├── sql/
+├── sql-concessionaria/
 │   ├── 01_create_tables.sql
 │   ├── 02_insert_data.sql
 │   └── 03_queries.sql
