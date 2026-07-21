@@ -113,9 +113,9 @@ O projeto contém exemplos de:
 
 ---
 
-## Imagens
+## Diagrama do Banco de Dados
 
-Em breve serão adicionadas imagens do banco de dados e dos resultados das consultas.
+![Diagrama](images/diagrama_banco.png)
 
 ---
 
